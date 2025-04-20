@@ -6,14 +6,14 @@ BÀI TẬP VỀ NHÀ 05, Môn Hệ quản trị csdl.
 
 **SUBJECT: Trigger on mssql**
 
-A. Trình bày lại đầu bài của đồ án PT&TKHT:
+**A. Trình bày lại đầu bài của đồ án PT&TKHT:**
 1. Mô tả bài toán của đồ án PT&TKHT, 
    đưa ra yêu cầu của bài toán đó
 2. Cơ sở dữ liệu của Đồ án PT&TKHT :
    Có database với các bảng dữ liệu cần thiết (3nf),
    Các bảng này đã có PK, FK, CK cần thiết
  
-B. Nội dung Bài tập 05:
+**B. Nội dung Bài tập 05:**
 1. Dựa trên cơ sở là csdl của Đồ án
 2. Tìm cách bổ xung thêm 1 (hoặc vài) trường phi chuẩn
    (là trường tính toán đc, nhưng thêm vào thì ok hơn,

@@ -123,9 +123,9 @@ B.Nội dung Bài tập 05:
  
     ![image](https://github.com/user-attachments/assets/90fcc4db-5f5c-42db-8df5-76bb7f39cddd)
 
-===> Kết Luận: Trigger giúp em ngăn chặn việc thêm những dữ liệu phi chuẩn và tự động cập nhật dữ liệu 1 cách logic từ các bảng có liên kết khi dữ liệu của 1 hoặc nhiều trong các bảng bị thay đổi
+===> Kết Luận: Trigger giúp em ngăn chặn việc cố gắng chèn thêm những dữ liệu phi chuẩn vào bảng và tự động cập nhật dữ liệu 1 cách logic từ các bảng có liên kết khi dữ liệu của 1 hoặc nhiều trong các bảng bị thay đổi
 
-                                  **<3333 Mãi Iu Thầy Cốp <3333**
+                           -
 
 
 

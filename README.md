@@ -4,7 +4,7 @@ baitap5_LyVanCuong_K225480106100_HQTCSDL
 
 BÀI TẬP VỀ NHÀ 05, Môn Hệ quản trị csdl.
 
-SUBJECT: Trigger on mssql
+**SUBJECT: Trigger on mssql**
 
 A. Trình bày lại đầu bài của đồ án PT&TKHT:
 1. Mô tả bài toán của đồ án PT&TKHT, 
